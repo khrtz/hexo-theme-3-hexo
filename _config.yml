@@ -13,7 +13,7 @@ link:
   items:
     rss: /atom.xml
     github: https://github.com/khrtz
-    facebook: https://www.facebook.com/itkhrtzs
+    facebook: https://www.facebook.com/itkhrtz
     twitter: https://twitter.com/khrtz
     instagram: https://www.instagram.com/sqpkn94/
     email: garula.oze498@gmail.com
@@ -93,9 +93,9 @@ word_count: false
 # 不蒜子网站计数设置
 # http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:
-  on: true
-  site_visit: true
-  page_visit: true
+  on: false
+  site_visit: false
+  page_visit: false
 
 ##########自定义样式设置##############
 # Table of contents | 文章目录
